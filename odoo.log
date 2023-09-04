@@ -1,0 +1,554 @@
+2023-05-23 16:40:56,005 14144 INFO ? odoo: Odoo version 16.0-20230523 
+2023-05-23 16:40:56,005 14144 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-05-23 16:40:56,005 14144 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-05-23 16:40:56,005 14144 INFO ? odoo: database: openpg@localhost:5432 
+2023-05-23 16:40:58,215 14144 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-05-23 16:40:59,442 14144 INFO ? odoo.service.server: Initiating shutdown 
+2023-05-23 16:40:59,443 14144 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-05-23 16:41:16,277 5620 INFO ? odoo: Odoo version 16.0-20230523 
+2023-05-23 16:41:16,278 5620 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-05-23 16:41:16,278 5620 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-05-23 16:41:16,278 5620 INFO ? odoo: database: openpg@localhost:5432 
+2023-05-23 16:41:16,857 5620 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-05-23 16:41:17,392 5620 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-05-23 16:41:21,427 5620 INFO ? odoo.sql_db: Connection to the database failed 
+2023-05-23 16:41:25,468 5620 INFO ? odoo.sql_db: Connection to the database failed 
+2023-05-23 16:50:48,161 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:48] "GET / HTTP/1.1" 303 - 1 0.019 0.673
+2023-05-23 16:50:48,162 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:48] "GET / HTTP/1.1" 303 - 1 0.018 0.714
+2023-05-23 16:50:49,166 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:49] "GET /web HTTP/1.1" 303 - 2 0.009 0.987
+2023-05-23 16:50:49,170 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:49] "GET /web HTTP/1.1" 303 - 2 0.008 0.931
+2023-05-23 16:50:51,808 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:51] "GET /web/database/selector HTTP/1.1" 200 - 2 0.009 2.564
+2023-05-23 16:50:51,817 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:51] "GET /web/database/selector HTTP/1.1" 200 - 2 0.011 2.634
+2023-05-23 16:50:52,833 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 1 0.003 0.976
+2023-05-23 16:50:52,835 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 1 0.003 0.974
+2023-05-23 16:50:52,837 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - 1 0.003 0.974
+2023-05-23 16:50:52,839 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 1 0.005 0.964
+2023-05-23 16:50:52,841 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 1 0.003 0.975
+2023-05-23 16:50:52,843 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:52] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 1 0.002 0.974
+2023-05-23 16:50:55,037 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 1 0.005 2.186
+2023-05-23 16:50:55,040 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 1 0.005 2.177
+2023-05-23 16:50:55,042 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - 1 0.003 2.187
+2023-05-23 16:50:55,044 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 1 0.004 2.192
+2023-05-23 16:50:55,048 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 1 0.003 2.183
+2023-05-23 16:50:55,049 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 1 0.004 2.167
+2023-05-23 16:50:55,050 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 1 0.004 2.162
+2023-05-23 16:50:55,051 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 1 0.006 2.160
+2023-05-23 16:50:55,058 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:55] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 1 0.003 2.169
+2023-05-23 16:50:56,382 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 1 0.005 1.313
+2023-05-23 16:50:56,387 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 1 0.003 1.310
+2023-05-23 16:50:56,388 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 1 0.004 1.317
+2023-05-23 16:50:56,389 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 1 0.003 1.308
+2023-05-23 16:50:56,391 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 1 0.006 1.291
+2023-05-23 16:50:56,393 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:56] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 1 0.003 1.309
+2023-05-23 16:50:57,084 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:57] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 1 0.005 0.686
+2023-05-23 16:50:57,088 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:57] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 1 0.004 0.491
+2023-05-23 16:50:57,090 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:50:57] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 1 0.003 0.686
+2023-05-23 16:52:12,921 5620 INFO None odoo.service.db: Create database `Test`. 
+2023-05-23 16:52:15,659 5620 INFO Test odoo.modules.loading: loading 1 modules... 
+2023-05-23 16:52:15,659 5620 INFO Test odoo.modules.loading: Loading module base (1/1) 
+2023-05-23 16:52:15,718 5620 INFO Test odoo.modules.registry: module base: creating or updating database tables 
+2023-05-23 16:52:16,579 5620 INFO Test odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2023-05-23 16:52:16,580 5620 INFO Test odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2023-05-23 16:52:16,580 5620 INFO Test odoo.models: Prepare computation of ir.module.module.views_by_module 
+2023-05-23 16:52:16,946 5620 INFO Test odoo.models: Prepare computation of res.partner.user_id 
+2023-05-23 16:52:16,946 5620 INFO Test odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2023-05-23 16:52:16,946 5620 INFO Test odoo.models: Prepare computation of res.partner.display_name 
+2023-05-23 16:52:16,947 5620 INFO Test odoo.models: Prepare computation of res.partner.company_registry 
+2023-05-23 16:52:16,947 5620 INFO Test odoo.models: Prepare computation of res.partner.commercial_company_name 
+2023-05-23 16:52:16,947 5620 INFO Test odoo.models: Prepare computation of res.partner.partner_share 
+2023-05-23 16:52:17,058 5620 INFO Test odoo.models: Prepare computation of res.currency.decimal_places 
+2023-05-23 16:52:17,122 5620 INFO Test odoo.models: Prepare computation of res.company.logo_web 
+2023-05-23 16:52:17,204 5620 INFO Test odoo.models: Prepare computation of res.users.signature 
+2023-05-23 16:52:17,204 5620 INFO Test odoo.models: Prepare computation of res.users.share 
+2023-05-23 16:52:20,421 5620 INFO Test odoo.modules.loading: loading base/data/res_bank.xml 
+2023-05-23 16:52:20,435 5620 INFO Test odoo.modules.loading: loading base/data/res.lang.csv 
+2023-05-23 16:52:20,523 5620 INFO Test odoo.modules.loading: loading base/data/res_lang_data.xml 
+2023-05-23 16:52:20,571 5620 INFO Test odoo.modules.loading: loading base/data/res_partner_data.xml 
+2023-05-23 16:52:20,679 5620 INFO Test odoo.modules.loading: loading base/data/res_currency_data.xml 
+2023-05-23 16:52:21,549 5620 INFO Test odoo.modules.loading: loading base/data/res_company_data.xml 
+2023-05-23 16:52:21,570 5620 INFO Test odoo.modules.loading: loading base/data/res_users_data.xml 
+2023-05-23 16:52:22,321 5620 INFO Test odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2023-05-23 16:52:22,336 5620 INFO Test odoo.modules.loading: loading base/data/res_country_data.xml 
+2023-05-23 16:52:23,036 5620 INFO Test odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2023-05-23 16:52:23,063 5620 INFO Test odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2023-05-23 16:52:23,079 5620 INFO Test odoo.modules.loading: loading base/security/base_groups.xml 
+2023-05-23 16:52:23,429 5620 INFO Test odoo.modules.loading: loading base/security/base_security.xml 
+2023-05-23 16:52:23,596 5620 INFO Test odoo.modules.loading: loading base/views/base_menus.xml 
+2023-05-23 16:52:23,737 5620 INFO Test odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2023-05-23 16:52:23,766 5620 INFO Test odoo.modules.loading: loading base/views/res_config_views.xml 
+2023-05-23 16:52:23,780 5620 INFO Test odoo.modules.loading: loading base/data/res.country.state.csv 
+2023-05-23 16:52:24,711 5620 INFO Test odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2023-05-23 16:52:24,863 5620 INFO Test odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2023-05-23 16:52:24,893 5620 INFO Test odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2023-05-23 16:52:24,921 5620 INFO Test odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2023-05-23 16:52:24,967 5620 INFO Test odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2023-05-23 16:52:24,997 5620 INFO Test odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2023-05-23 16:52:25,028 5620 INFO Test odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2023-05-23 16:52:25,060 5620 INFO Test odoo.modules.loading: loading base/views/ir_model_views.xml 
+2023-05-23 16:52:25,300 5620 INFO Test odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2023-05-23 16:52:25,339 5620 INFO Test odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2023-05-23 16:52:25,380 5620 INFO Test odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2023-05-23 16:52:25,413 5620 INFO Test odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2023-05-23 16:52:25,445 5620 INFO Test odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2023-05-23 16:52:25,521 5620 INFO Test odoo.modules.loading: loading base/views/ir_default_views.xml 
+2023-05-23 16:52:25,550 5620 INFO Test odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2023-05-23 16:52:25,562 5620 INFO Test odoo.modules.loading: loading base/report/ir_model_report.xml 
+2023-05-23 16:52:25,567 5620 INFO Test odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2023-05-23 16:52:25,580 5620 INFO Test odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2023-05-23 16:52:25,608 5620 INFO Test odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2023-05-23 16:52:25,631 5620 INFO Test odoo.modules.loading: loading base/views/ir_module_views.xml 
+2023-05-23 16:52:25,803 5620 INFO Test odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2023-05-23 16:52:25,911 5620 INFO Test odoo.modules.loading: loading base/data/ir_module_module.xml 
+2023-05-23 16:52:26,019 5620 INFO Test odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2023-05-23 16:52:26,027 5620 INFO Test odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2023-05-23 16:52:26,037 5620 INFO Test odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2023-05-23 16:52:26,057 5620 INFO Test odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2023-05-23 16:52:26,078 5620 INFO Test odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2023-05-23 16:52:26,097 5620 INFO Test odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2023-05-23 16:52:26,128 5620 INFO Test odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2023-05-23 16:52:26,138 5620 INFO Test odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2023-05-23 16:52:26,159 5620 INFO Test odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2023-05-23 16:52:26,183 5620 INFO Test odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2023-05-23 16:52:26,190 5620 INFO Test odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2023-05-23 16:52:26,213 5620 INFO Test odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2023-05-23 16:52:26,250 5620 INFO Test odoo.modules.loading: loading base/views/res_company_views.xml 
+2023-05-23 16:52:26,287 5620 INFO Test odoo.modules.loading: loading base/views/res_lang_views.xml 
+2023-05-23 16:52:26,323 5620 INFO Test odoo.modules.loading: loading base/views/res_partner_views.xml 
+2023-05-23 16:52:26,503 5620 INFO Test odoo.modules.loading: loading base/views/res_bank_views.xml 
+2023-05-23 16:52:26,549 5620 INFO Test odoo.modules.loading: loading base/views/res_country_views.xml 
+2023-05-23 16:52:26,603 5620 INFO Test odoo.modules.loading: loading base/views/res_currency_views.xml 
+2023-05-23 16:52:26,654 5620 INFO Test odoo.modules.loading: loading base/views/res_users_views.xml 
+2023-05-23 16:52:26,895 5620 INFO Test odoo.modules.loading: loading base/views/ir_property_views.xml 
+2023-05-23 16:52:26,943 5620 INFO Test odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2023-05-23 16:52:26,959 5620 INFO Test odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2023-05-23 16:52:27,000 5620 INFO Test odoo.modules.loading: loading base/views/onboarding_views.xml 
+2023-05-23 16:52:27,042 5620 INFO Test odoo.modules.loading: loading base/security/ir.model.access.csv 
+2023-05-23 16:52:27,317 5620 INFO Test odoo.modules.loading: Module base loaded in 11.66s, 7834 queries (+7834 other) 
+2023-05-23 16:52:27,317 5620 INFO Test odoo.modules.loading: 1 modules loaded in 11.66s, 7834 queries (+7834 extra) 
+2023-05-23 16:52:27,365 5620 INFO Test odoo.modules.loading: updating modules list 
+2023-05-23 16:52:27,365 5620 INFO Test odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2023-05-23 16:52:28,231 5620 INFO Test odoo.modules.loading: loading 8 modules... 
+2023-05-23 16:52:28,232 5620 INFO Test odoo.modules.loading: Loading module web (2/8) 
+2023-05-23 16:52:28,265 5620 INFO Test odoo.modules.registry: module web: creating or updating database tables 
+2023-05-23 16:52:29,035 5620 INFO Test odoo.modules.loading: loading web/security/ir.model.access.csv 
+2023-05-23 16:52:29,054 5620 INFO Test odoo.modules.loading: loading web/views/webclient_templates.xml 
+2023-05-23 16:52:29,146 5620 INFO Test odoo.modules.loading: loading web/views/report_templates.xml 
+2023-05-23 16:52:29,283 5620 INFO Test odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2023-05-23 16:52:29,306 5620 INFO Test odoo.modules.loading: loading web/views/speedscope_template.xml 
+2023-05-23 16:52:29,315 5620 INFO Test odoo.modules.loading: loading web/views/lazy_assets.xml 
+2023-05-23 16:52:29,326 5620 INFO Test odoo.modules.loading: loading web/views/neutralize_views.xml 
+2023-05-23 16:52:29,337 5620 INFO Test odoo.modules.loading: loading web/data/ir_attachment.xml 
+2023-05-23 16:52:29,346 5620 INFO Test odoo.modules.loading: loading web/data/report_layout.xml 
+2023-05-23 16:52:29,415 5620 INFO Test odoo.modules.loading: Module web loaded in 1.18s, 882 queries (+882 other) 
+2023-05-23 16:52:29,415 5620 INFO Test odoo.modules.loading: Loading module auth_totp (3/8) 
+2023-05-23 16:52:29,524 5620 INFO Test odoo.modules.registry: module auth_totp: creating or updating database tables 
+2023-05-23 16:52:29,619 5620 INFO Test odoo.modules.loading: loading auth_totp/security/security.xml 
+2023-05-23 16:52:29,659 5620 INFO Test odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2023-05-23 16:52:29,674 5620 INFO Test odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2023-05-23 16:52:29,684 5620 INFO Test odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2023-05-23 16:52:29,724 5620 INFO Test odoo.modules.loading: loading auth_totp/views/templates.xml 
+2023-05-23 16:52:29,734 5620 INFO Test odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2023-05-23 16:52:29,765 5620 INFO Test odoo.modules.loading: Module auth_totp loaded in 0.35s, 174 queries (+174 other) 
+2023-05-23 16:52:29,765 5620 INFO Test odoo.modules.loading: Loading module base_import (4/8) 
+2023-05-23 16:52:29,844 5620 INFO Test odoo.modules.registry: module base_import: creating or updating database tables 
+2023-05-23 16:52:31,206 5620 INFO Test odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2023-05-23 16:52:31,290 5620 INFO Test odoo.modules.loading: Module base_import loaded in 1.52s, 890 queries (+890 other) 
+2023-05-23 16:52:31,291 5620 INFO Test odoo.modules.loading: Loading module bus (5/8) 
+2023-05-23 16:52:31,406 5620 INFO Test odoo.modules.registry: module bus: creating or updating database tables 
+2023-05-23 16:52:31,539 5620 INFO Test odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2023-05-23 16:52:31,567 5620 INFO Test odoo.modules.loading: Module bus loaded in 0.28s, 103 queries (+103 other) 
+2023-05-23 16:52:31,567 5620 INFO Test odoo.modules.loading: Loading module web_kanban_gauge (6/8) 
+2023-05-23 16:52:31,628 5620 INFO Test odoo.modules.loading: Module web_kanban_gauge loaded in 0.06s, 12 queries (+12 other) 
+2023-05-23 16:52:31,628 5620 INFO Test odoo.modules.loading: Loading module web_tour (7/8) 
+2023-05-23 16:52:31,671 5620 INFO Test odoo.modules.registry: module web_tour: creating or updating database tables 
+2023-05-23 16:52:31,720 5620 INFO Test odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2023-05-23 16:52:31,732 5620 INFO Test odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2023-05-23 16:52:31,747 5620 INFO Test odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2023-05-23 16:52:31,794 5620 INFO Test odoo.modules.loading: Module web_tour loaded in 0.17s, 101 queries (+101 other) 
+2023-05-23 16:52:31,794 5620 INFO Test odoo.modules.loading: Loading module web_editor (8/8) 
+2023-05-23 16:52:31,950 5620 INFO Test odoo.modules.registry: module web_editor: creating or updating database tables 
+2023-05-23 16:52:32,864 5620 INFO Test odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2023-05-23 16:52:32,879 5620 INFO Test odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2023-05-23 16:52:32,888 5620 INFO Test odoo.modules.loading: loading web_editor/views/editor.xml 
+2023-05-23 16:52:32,928 5620 INFO Test odoo.modules.loading: loading web_editor/views/snippets.xml 
+2023-05-23 16:52:32,992 5620 INFO Test odoo.modules.loading: Module web_editor loaded in 1.20s, 821 queries (+821 other) 
+2023-05-23 16:52:32,993 5620 INFO Test odoo.modules.loading: 8 modules loaded in 4.76s, 2983 queries (+2983 extra) 
+2023-05-23 16:52:33,322 5620 INFO Test odoo.modules.loading: Modules loaded. 
+2023-05-23 16:52:33,325 5620 INFO Test odoo.modules.registry: Registry loaded in 17.687s 
+2023-05-23 16:52:34,172 5620 INFO Test odoo.addons.base.models.res_users: Login successful for db:Test login:haydenpost@gmail.com from 127.0.0.1 
+2023-05-23 16:52:34,187 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:34] "POST /web/database/create HTTP/1.1" 303 - 15673 12.985 8.574
+2023-05-23 16:52:34,194 5620 INFO Test odoo.addons.base.models.ir_http: Generating routing map for key None 
+2023-05-23 16:52:34,313 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:34] "GET /web HTTP/1.1" 303 - 6 0.003 0.118
+2023-05-23 16:52:42,014 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/login HTTP/1.1" 200 - 68 0.052 7.644
+2023-05-23 16:52:42,282 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/assets/15-3ca232f/web.assets_frontend.min.css HTTP/1.1" 200 - 10 0.007 0.226
+2023-05-23 16:52:42,297 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/assets/16-6c09c14/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 8 0.004 0.240
+2023-05-23 16:52:42,314 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.007 0.005
+2023-05-23 16:52:42,437 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/assets/17-f27f393/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 8 0.008 0.012
+2023-05-23 16:52:42,833 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/webclient/translations/1684860762813 HTTP/1.1" 200 - 6 0.004 0.011
+2023-05-23 16:52:42,849 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/webclient/translations/1684860762837 HTTP/1.1" 200 - 6 0.004 0.006
+2023-05-23 16:52:42,878 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:52:42] "GET /web/static/img/spin.svg HTTP/1.1" 200 - 0 0.000 0.002
+2023-05-23 16:53:52,654 5620 INFO Test odoo.addons.base.models.res_users: Login successful for db:Test login:haydenpost@gmail.com from 127.0.0.1 
+2023-05-23 16:53:52,676 5620 INFO Test odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2023-05-23 16:53:52,677 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:53:52] "POST /web/login HTTP/1.1" 303 - 42 0.048 0.601
+2023-05-23 16:54:08,769 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:08] "GET /web HTTP/1.1" 200 - 108 0.101 15.979
+2023-05-23 16:54:09,363 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/assets/18-a204971/web.assets_common.min.css HTTP/1.1" 200 - 4 0.003 0.561
+2023-05-23 16:54:09,364 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/assets/20-a204971/web.assets_common.min.js HTTP/1.1" 200 - 4 0.001 0.556
+2023-05-23 16:54:09,364 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/assets/21-c2a636e/web.assets_backend.min.js HTTP/1.1" 200 - 4 0.004 0.555
+2023-05-23 16:54:09,372 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/assets/19-c2a636e/web.assets_backend.min.css HTTP/1.1" 200 - 4 0.006 0.563
+2023-05-23 16:54:09,373 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/assets/22-a6a13d6/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 4 0.004 0.561
+2023-05-23 16:54:09,411 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/webclient/load_menus/3b5665afdb76f0b35edca6c8b7486724a31b5c9e8fd5a2aa71a636993cb1dd9b HTTP/1.1" 200 - 2 0.003 0.008
+2023-05-23 16:54:09,420 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:09] "GET /web/webclient/translations/65607f58d5469d51a5b051eb66c57db2c3d405a5?lang=en_US HTTP/1.1" 200 - 3 0.011 0.006
+2023-05-23 16:54:10,046 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:10] "GET /web/static/img/mobile-icons/android-192x192.png HTTP/1.1" 200 - 0 0.000 0.003
+2023-05-23 16:54:10,411 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:10] "GET /bus/websocket_worker_bundle?v=1.0.5 HTTP/1.1" 200 - 9 0.015 0.038
+2023-05-23 16:54:10,437 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:10] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.009
+2023-05-23 16:54:10,455 5620 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2023-05-23 16:54:12,309 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:12] "GET /web/webclient/locale/en_US HTTP/1.1" 200 - 1 0.000 0.003
+2023-05-23 16:54:13,294 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "GET /web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2 HTTP/1.1" 200 - 0 0.000 0.016
+2023-05-23 16:54:13,303 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 15 0.009 0.021
+2023-05-23 16:54:13,306 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "POST /web/action/load HTTP/1.1" 200 - 11 0.015 0.015
+2023-05-23 16:54:13,388 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 43 0.034 0.039
+2023-05-23 16:54:13,407 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 10 0.006 0.009
+2023-05-23 16:54:13,432 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.003 0.009
+2023-05-23 16:54:13,467 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 40 0.031 0.021
+2023-05-23 16:54:13,508 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:13] "GET /base/static/img/avatar.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-05-23 16:54:17,298 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /account/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-05-23 16:54:17,299 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,304 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /crm/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,306 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,313 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /website/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.017
+2023-05-23 16:54:17,318 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,321 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /stock/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.020
+2023-05-23 16:54:17,326 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/knowledge.png HTTP/1.1" 200 - 0 0.000 0.017
+2023-05-23 16:54:17,334 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.020
+2023-05-23 16:54:17,337 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /project/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,337 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2023-05-23 16:54:17,340 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,348 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,358 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,359 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.020
+2023-05-23 16:54:17,360 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,365 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,368 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,370 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,379 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,385 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,385 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /data_recycle/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,391 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,391 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-05-23 16:54:17,397 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,402 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,403 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,405 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,412 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,412 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /mail/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-05-23 16:54:17,414 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,423 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /contacts/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-05-23 16:54:17,424 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-05-23 16:54:17,431 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /calendar/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,433 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/social.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,438 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - 0 0.000 0.016
+2023-05-23 16:54:17,440 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /fleet/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-05-23 16:54:17,445 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,446 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,453 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/appointment.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,463 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /survey/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.016
+2023-05-23 16:54:17,470 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - 0 0.000 0.018
+2023-05-23 16:54:17,472 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /repair/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2023-05-23 16:54:17,480 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2023-05-23 16:54:17,481 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.023
+2023-05-23 16:54:17,485 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - 0 0.000 0.021
+2023-05-23 16:54:17,492 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-05-23 16:54:17,493 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /note/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2023-05-23 16:54:17,498 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-05-23 16:54:17,503 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /lunch/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,505 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2023-05-23 16:54:17,508 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-05-23 16:54:17,509 5620 INFO ? werkzeug: 127.0.0.1 - - [23/May/2023 16:54:17] "GET /hr_contract/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-05-23 16:55:15,075 5620 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "C:\Users\hayde\OneDrive\Desktop\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "C:\Users\hayde\OneDrive\Desktop\server\odoo\http.py", line 365, in dispatch_rpc
+    return dispatch(method, params)
+  File "C:\Users\hayde\OneDrive\Desktop\server\odoo\service\db.py", line 474, in dispatch
+    check_super(passwd)
+  File "C:\Users\hayde\OneDrive\Desktop\server\odoo\service\db.py", line 53, in check_super
+    raise odoo.exceptions.AccessDenied()
+odoo.exceptions.AccessDenied: Access Denied
+2023-05-23 16:55:15,295 5620 INFO None werkzeug: 127.0.0.1 - - [23/May/2023 16:55:15] "POST /web/database/create HTTP/1.1" 200 - 4 0.005 0.260
+2023-05-23 16:55:19,552 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:19] "GET /web?db=Test HTTP/1.1" 200 - 9 0.008 0.009
+2023-05-23 16:55:20,239 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:20] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 304 - 8 0.014 0.015
+2023-05-23 16:55:20,246 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:20] "POST /web/action/load HTTP/1.1" 200 - 10 0.018 0.015
+2023-05-23 16:55:20,262 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:20] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 3 0.001 0.011
+2023-05-23 16:55:20,298 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:20] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.004 0.010
+2023-05-23 16:55:20,328 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 16:55:20] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 37 0.024 0.023
+2023-05-23 18:14:56,210 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 18:14:56] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.033
+2023-05-23 19:22:34,738 5620 INFO Test werkzeug: 127.0.0.1 - - [23/May/2023 19:22:34] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.012
+2023-05-24 03:27:07,535 5620 INFO Test werkzeug: 127.0.0.1 - - [24/May/2023 03:27:07] "GET /websocket HTTP/1.1" 101 - 1 0.017 0.037
+2023-05-24 04:29:22,595 5620 INFO Test werkzeug: 127.0.0.1 - - [24/May/2023 04:29:22] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.013
+2023-05-24 05:44:39,474 5620 INFO Test werkzeug: 127.0.0.1 - - [24/May/2023 05:44:39] "GET /websocket HTTP/1.1" 101 - 1 0.001 0.011
+2023-05-25 01:09:23,040 9632 INFO ? odoo: Odoo version 16.0-20230523 
+2023-05-25 01:09:23,040 9632 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-05-25 01:09:23,040 9632 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-05-25 01:09:23,040 9632 INFO ? odoo: database: openpg@localhost:5432 
+2023-05-25 01:09:24,105 9632 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-05-25 01:09:26,696 9632 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-05-29 02:02:10,227 9796 INFO ? odoo: Odoo version 16.0-20230523 
+2023-05-29 02:02:10,227 9796 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-05-29 02:02:10,227 9796 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-05-29 02:02:10,227 9796 INFO ? odoo: database: openpg@localhost:5432 
+2023-05-29 02:02:10,776 9796 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-05-29 02:02:11,843 9796 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-02 05:12:24,162 9756 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-02 05:12:24,162 9756 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-02 05:12:24,162 9756 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-02 05:12:24,162 9756 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-02 05:12:24,570 9756 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-02 05:12:25,528 9756 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-06-05 14:26:33,535 9048 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-05 14:26:33,550 9048 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-05 14:26:33,550 9048 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-05 14:26:33,550 9048 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-05 14:26:34,988 9048 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-05 14:26:37,239 9048 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-08 21:00:16,302 7856 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-08 21:00:16,302 7856 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-08 21:00:16,302 7856 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-08 21:00:16,302 7856 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-08 21:00:17,730 7856 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-08 21:00:20,054 7856 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-08 21:00:20,164 7856 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-08 21:00:20,321 7856 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-10 06:12:57,765 8200 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-10 06:12:57,765 8200 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-10 06:12:57,765 8200 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-10 06:12:57,765 8200 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-10 06:12:58,440 8200 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-10 06:12:59,600 8200 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-10 06:12:59,663 8200 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-10 06:12:59,742 8200 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-15 04:11:29,141 8304 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-15 04:11:29,188 8304 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-15 04:11:29,188 8304 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-15 04:11:29,188 8304 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-15 04:11:29,659 8304 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-15 04:11:30,490 8304 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-15 04:11:30,490 8304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-15 04:11:30,537 8304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-06-17 04:42:15,035 10100 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-17 04:42:15,035 10100 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-17 04:42:15,035 10100 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-17 04:42:15,035 10100 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-17 04:42:15,973 10100 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-17 04:42:17,102 10100 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-17 04:44:01,166 10100 INFO ? odoo.service.server: Initiating shutdown 
+2023-06-17 04:44:01,166 10100 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-06-17 04:44:01,588 10100 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2023-06-17 04:45:05,745 11080 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-17 04:45:05,745 11080 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-17 04:45:05,745 11080 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-17 04:45:05,745 11080 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-17 04:45:06,247 11080 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-17 04:45:07,189 11080 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-06-30 05:16:19,514 8220 INFO ? odoo: Odoo version 16.0-20230523 
+2023-06-30 05:16:19,514 8220 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-06-30 05:16:19,514 8220 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-06-30 05:16:19,514 8220 INFO ? odoo: database: openpg@localhost:5432 
+2023-06-30 05:16:20,323 8220 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-06-30 05:16:21,713 8220 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-01 04:52:15,200 8668 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-01 04:52:15,200 8668 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-01 04:52:15,200 8668 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-01 04:52:15,200 8668 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-01 04:52:15,701 8668 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-01 04:52:16,627 8668 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-01 04:52:16,674 8668 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-01 04:52:16,737 8668 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-08 07:25:46,767 7932 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-08 07:25:46,767 7932 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-08 07:25:46,767 7932 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-08 07:25:46,767 7932 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-08 07:25:47,252 7932 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-08 07:25:48,163 7932 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-09 02:45:40,633 8832 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-09 02:45:40,633 8832 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-09 02:45:40,633 8832 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-09 02:45:40,633 8832 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-09 02:45:43,568 8832 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-09 02:46:00,653 8832 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-09 02:46:00,732 8832 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-09 02:46:00,810 8832 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-10 04:49:06,099 7820 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-10 04:49:06,240 7820 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-10 04:49:06,240 7820 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-10 04:49:06,240 7820 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-10 04:49:10,943 7820 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-10 04:49:12,083 7820 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-10 04:49:12,130 7820 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-10 04:49:12,177 7820 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-22 03:58:54,969 9528 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-22 03:58:54,969 9528 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-22 03:58:54,969 9528 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-22 03:58:54,969 9528 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-22 03:58:56,210 9528 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-22 03:58:58,531 9528 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-22 04:00:38,484 9528 INFO ? odoo.service.server: Initiating shutdown 
+2023-07-22 04:00:38,484 9528 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-07-22 04:00:38,845 9528 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2023-07-22 04:01:27,904 8344 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-22 04:01:27,918 8344 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-22 04:01:27,918 8344 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-22 04:01:27,918 8344 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-22 04:01:29,690 8344 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-22 04:01:31,505 8344 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-22 04:01:31,615 8344 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-22 04:01:31,740 8344 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-24 06:24:34,934 8892 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-24 06:24:34,934 8892 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-24 06:24:34,934 8892 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-24 06:24:34,934 8892 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-24 06:24:37,293 8892 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-24 06:24:42,637 8892 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-29 15:44:46,958 9184 INFO ? odoo: Odoo version 16.0-20230523 
+2023-07-29 15:44:46,958 9184 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-07-29 15:44:46,958 9184 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-07-29 15:44:46,958 9184 INFO ? odoo: database: openpg@localhost:5432 
+2023-07-29 15:44:48,167 9184 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-07-29 15:44:50,438 9184 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-07-29 15:44:50,501 9184 INFO ? odoo.sql_db: Connection to the database failed 
+2023-07-29 15:44:50,641 9184 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-03 04:08:12,182 9388 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-03 04:08:12,197 9388 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-03 04:08:12,197 9388 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-03 04:08:12,197 9388 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-03 04:08:17,854 9388 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-03 04:08:22,510 9388 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-04 16:39:21,721 2424 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-04 16:39:21,721 2424 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-04 16:39:21,721 2424 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-04 16:39:21,721 2424 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-04 16:39:23,634 2424 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-04 16:39:26,073 2424 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-05 17:49:33,223 8484 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-05 17:49:33,226 8484 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-05 17:49:33,226 8484 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-05 17:49:33,226 8484 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-05 17:49:35,434 8484 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-05 17:49:38,014 8484 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-07 15:39:21,115 10588 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-07 15:39:21,115 10588 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-07 15:39:21,115 10588 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-07 15:39:21,115 10588 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-07 15:39:24,021 10588 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-07 15:39:29,148 10588 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-07 15:39:32,590 10588 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-07 15:39:32,933 10588 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 04:48:45,490 8800 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-10 04:48:45,506 8800 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-10 04:48:45,506 8800 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-10 04:48:45,506 8800 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-10 04:48:46,102 8800 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-10 04:48:47,813 8800 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-10 04:48:47,953 8800 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 04:48:48,048 8800 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 06:36:24,581 8836 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-10 06:36:24,581 8836 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-10 06:36:24,581 8836 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-10 06:36:24,581 8836 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-10 06:36:28,643 8836 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-10 06:36:35,793 8836 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-10 06:36:36,701 8836 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 06:36:37,408 8836 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 16:00:09,813 9192 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-10 16:00:09,813 9192 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-10 16:00:09,813 9192 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-10 16:00:09,813 9192 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-10 16:00:10,880 9192 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-10 16:00:14,661 9192 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-10 16:00:17,391 9192 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-10 16:00:17,501 9192 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-11 03:33:45,503 9092 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-11 03:33:45,509 9092 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-11 03:33:45,509 9092 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-11 03:33:45,510 9092 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-11 03:33:48,398 9092 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-11 03:33:51,917 9092 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-11 03:33:52,586 9092 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-11 03:33:52,758 9092 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-12 04:52:16,662 9092 INFO ? odoo.service.server: Initiating shutdown 
+2023-08-12 04:52:16,693 9092 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-08-12 04:52:16,828 9092 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-08-12 04:54:48,922 10272 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-12 04:54:48,922 10272 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-12 04:54:48,922 10272 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-12 04:54:48,922 10272 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-12 04:54:50,036 10272 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-12 04:54:53,595 10272 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-12 04:54:53,845 10272 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-12 04:54:53,986 10272 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-15 15:03:03,386 8512 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-15 15:03:03,484 8512 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-15 15:03:03,484 8512 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-15 15:03:03,484 8512 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-15 15:03:03,991 8512 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-15 15:03:04,902 8512 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0.gv.shawcable.net:8069 
+2023-08-15 15:03:04,981 8512 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-15 15:03:05,059 8512 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-16 23:33:14,612 8796 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-16 23:33:14,612 8796 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-16 23:33:14,612 8796 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-16 23:33:14,612 8796 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-16 23:33:15,036 8796 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-16 23:33:22,693 8796 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-08-17 18:47:33,179 9604 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-17 18:47:33,179 9604 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-17 18:47:33,179 9604 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-17 18:47:33,179 9604 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-17 18:47:35,342 9604 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-17 18:47:42,445 9604 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-08-24 04:01:46,902 9604 INFO ? odoo.service.server: Initiating shutdown 
+2023-08-24 04:01:46,925 9604 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-08-24 04:01:47,524 9604 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2023-08-24 04:02:42,935 11156 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-24 04:02:42,951 11156 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-24 04:02:42,951 11156 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-24 04:02:42,951 11156 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-24 04:02:45,313 11156 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-24 04:02:48,321 11156 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-08-24 04:02:48,682 11156 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-24 04:02:49,122 11156 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-24 22:42:19,360 8752 INFO ? odoo: Odoo version 16.0-20230523 
+2023-08-24 22:42:19,403 8752 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-08-24 22:42:19,403 8752 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-08-24 22:42:19,403 8752 INFO ? odoo: database: openpg@localhost:5432 
+2023-08-24 22:42:20,281 8752 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-08-24 22:42:59,296 8752 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-08-24 22:43:00,297 8752 INFO ? odoo.sql_db: Connection to the database failed 
+2023-08-24 22:43:00,328 8752 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-01 04:14:34,525 9708 INFO ? odoo: Odoo version 16.0-20230523 
+2023-09-01 04:14:34,605 9708 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-09-01 04:14:34,605 9708 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-09-01 04:14:34,605 9708 INFO ? odoo: database: openpg@localhost:5432 
+2023-09-01 04:14:35,342 9708 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-09-01 04:14:44,072 9708 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-09-01 04:14:44,213 9708 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-01 04:14:44,353 9708 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-03 07:26:12,140 9708 INFO ? odoo.service.server: Initiating shutdown 
+2023-09-03 07:26:12,192 9708 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-09-03 07:26:12,480 9708 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-09-03 07:26:58,418 11672 INFO ? odoo: Odoo version 16.0-20230523 
+2023-09-03 07:26:58,421 11672 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-09-03 07:26:58,421 11672 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-09-03 07:26:58,421 11672 INFO ? odoo: database: openpg@localhost:5432 
+2023-09-03 07:26:59,142 11672 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-09-03 07:27:00,177 11672 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-09-03 07:27:00,322 11672 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-03 07:27:00,422 11672 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-03 15:39:12,862 10260 INFO ? odoo: Odoo version 16.0-20230523 
+2023-09-03 15:39:12,872 10260 INFO ? odoo: Using configuration file at C:\Users\hayde\OneDrive\Desktop\server\odoo.conf 
+2023-09-03 15:39:12,872 10260 INFO ? odoo: addons paths: ['C:\\Users\\hayde\\OneDrive\\Desktop\\server\\odoo\\addons', 'c:\\users\\hayde\\onedrive\\desktop\\sessions\\addons\\16.0', 'c:\\users\\hayde\\onedrive\\desktop\\server\\odoo\\addons'] 
+2023-09-03 15:39:12,872 10260 INFO ? odoo: database: openpg@localhost:5432 
+2023-09-03 15:39:14,600 10260 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\hayde\OneDrive\Desktop\thirdparty\wkhtmltopdf.exe 
+2023-09-03 15:39:18,821 10260 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-4LE7TQ0:8069 
+2023-09-03 15:39:19,367 10260 INFO ? odoo.sql_db: Connection to the database failed 
+2023-09-03 15:39:19,508 10260 INFO ? odoo.sql_db: Connection to the database failed 
